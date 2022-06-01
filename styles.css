@@ -15,7 +15,7 @@
 .child:last-child{
   background: yellow;
 }
-body { 
+#mybody { 
   margin: 0; 
   padding: 0; 
 }
