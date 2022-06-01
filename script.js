@@ -18,3 +18,4 @@ function delayedFunction() {
   document.getElementById('container').innerHTML = '<div class="child"></div> '.repeat(x);
 }
 delayTimer();
+document.getElementsByTagName("body")[0].id="mybody";
