@@ -1,0 +1,17 @@
+#container {
+  background: orange;
+  height:100%;
+  width: 100%;
+}
+.child{
+  background: red;
+  height:75px;
+  width: 100%;
+  border: 2px solid black;
+}
+.child:first-child{
+  background: green;
+}
+.child:last-child{
+  background: yellow;
+}
